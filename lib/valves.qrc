@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/valves" >
+        <file>lamp_green_16x16.png</file>
+        <file>lamp_off_16x16.png</file>
+        <file>valve_green_20x32.png</file>
+        <file>valve_off_20x32.png</file>
+    </qresource>
+</RCC>
