@@ -6,5 +6,8 @@
     <file>lamp_off_16x16.png</file>
     <file>valve_green_20x32.png</file>
     <file>valve_off_20x32.png</file>
+    <file>lamp_off.png</file>
+    <file>lamp_on.png</file>
+    <file>lamp_red.png</file>
   </qresource>
 </RCC>
