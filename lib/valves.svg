@@ -651,6 +651,254 @@
        y1="233.2959"
        x2="687.09961"
        y2="239.75" />
+    <inkscape:perspective
+       id="perspective4924"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#XMLID_17_"
+       id="linearGradient16551"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.1866995,0,0,1.3830178,-227.49253,-266.06349)"
+       x1="770.20947"
+       y1="330.5918"
+       x2="770.20947"
+       y2="339.1333" />
+    <linearGradient
+       id="XMLID_17_"
+       gradientUnits="userSpaceOnUse"
+       x1="770.20947"
+       y1="330.5918"
+       x2="770.20947"
+       y2="339.1333">
+      <stop
+         offset="0"
+         style="stop-color:#FFFFFF"
+         id="stop8500" />
+      <stop
+         offset="0.9945"
+         style="stop-color:#858585"
+         id="stop8502" />
+      <a:midPointStop
+         offset="0"
+         style="stop-color:#FFFFFF" />
+      <a:midPointStop
+         offset="0.5"
+         style="stop-color:#FFFFFF" />
+      <a:midPointStop
+         offset="0.9945"
+         style="stop-color:#858585" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#XMLID_18_"
+       id="linearGradient16553"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.1866995,0,0,1.3830178,-227.49253,-266.06349)"
+       x1="787.87653"
+       y1="330.5918"
+       x2="787.87653"
+       y2="339.1333" />
+    <linearGradient
+       id="XMLID_18_"
+       gradientUnits="userSpaceOnUse"
+       x1="787.87653"
+       y1="330.5918"
+       x2="787.87653"
+       y2="339.1333">
+      <stop
+         offset="0"
+         style="stop-color:#FFFFFF"
+         id="stop8509" />
+      <stop
+         offset="0.9945"
+         style="stop-color:#858585"
+         id="stop8511" />
+      <a:midPointStop
+         offset="0"
+         style="stop-color:#FFFFFF" />
+      <a:midPointStop
+         offset="0.5"
+         style="stop-color:#FFFFFF" />
+      <a:midPointStop
+         offset="0.9945"
+         style="stop-color:#858585" />
+    </linearGradient>
+    <linearGradient
+       y2="339.1333"
+       x2="787.87653"
+       y1="330.5918"
+       x1="787.87653"
+       gradientTransform="matrix(1.1866995,0,0,1.3830178,-227.49253,-266.06349)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4940"
+       xlink:href="#XMLID_18_"
+       inkscape:collect="always" />
+    <inkscape:perspective
+       id="perspective6145"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#XMLID_204_-9"
+       id="radialGradient9935"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.3289848,0,0,1.5163407,63.687678,-20.504808)"
+       cx="188.2524"
+       cy="365.21631"
+       fx="188.2524"
+       fy="365.21631"
+       r="26.9842" />
+    <radialGradient
+       id="XMLID_204_-9"
+       cx="188.2524"
+       cy="365.21631"
+       r="26.9842"
+       fx="188.2524"
+       fy="365.21631"
+       gradientTransform="matrix(1.1199,0,0,1.0964,-22.4744,-35.6107)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         style="stop-color:#000000"
+         id="stop13497-7" />
+      <stop
+         offset="0.75"
+         style="stop-color:#FFFFFF"
+         id="stop13499-3" />
+      <stop
+         offset="1"
+         style="stop-color:#000000"
+         id="stop13501-6" />
+      <a:midPointStop
+         offset="0"
+         style="stop-color:#000000" />
+      <a:midPointStop
+         offset="0.5"
+         style="stop-color:#000000" />
+      <a:midPointStop
+         offset="0.75"
+         style="stop-color:#FFFFFF" />
+      <a:midPointStop
+         offset="0.5"
+         style="stop-color:#FFFFFF" />
+      <a:midPointStop
+         offset="1"
+         style="stop-color:#000000" />
+    </radialGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#XMLID_205_-1"
+       id="linearGradient9937"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.1866995,0,0,1.3830178,90.358037,28.745424)"
+       x1="172.74609"
+       y1="357.61429"
+       x2="172.74609"
+       y2="334.25" />
+    <linearGradient
+       id="XMLID_205_-1"
+       gradientUnits="userSpaceOnUse"
+       x1="172.74609"
+       y1="357.61429"
+       x2="172.74609"
+       y2="334.25">
+      <stop
+         offset="0"
+         style="stop-color:#000000"
+         id="stop13506-2" />
+      <stop
+         offset="0.62"
+         style="stop-color:#FFFFFF"
+         id="stop13508-9" />
+      <stop
+         offset="0.7047"
+         style="stop-color:#BBBBBB"
+         id="stop13510-3" />
+      <stop
+         offset="0.8119"
+         style="stop-color:#6C6C6C"
+         id="stop13512-1" />
+      <stop
+         offset="0.9004"
+         style="stop-color:#323232"
+         id="stop13514-9" />
+      <stop
+         offset="0.9654"
+         style="stop-color:#111111"
+         id="stop13516-4" />
+      <stop
+         offset="1"
+         style="stop-color:#000000"
+         id="stop13518-7" />
+      <a:midPointStop
+         offset="0"
+         style="stop-color:#000000" />
+      <a:midPointStop
+         offset="0.5"
+         style="stop-color:#000000" />
+      <a:midPointStop
+         offset="0.62"
+         style="stop-color:#FFFFFF" />
+      <a:midPointStop
+         offset="0.4328"
+         style="stop-color:#FFFFFF" />
+      <a:midPointStop
+         offset="1"
+         style="stop-color:#000000" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#XMLID_206_-8"
+       id="linearGradient9939"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.1866995,0,0,1.3830178,90.358037,28.745424)"
+       x1="150.7612"
+       y1="360.25"
+       x2="150.7612"
+       y2="331.25" />
+    <linearGradient
+       id="XMLID_206_-8"
+       gradientUnits="userSpaceOnUse"
+       x1="150.7612"
+       y1="360.25"
+       x2="150.7612"
+       y2="331.25">
+      <stop
+         offset="0"
+         style="stop-color:#000000"
+         id="stop13523-4" />
+      <stop
+         offset="0.59"
+         style="stop-color:#FFFFFF"
+         id="stop13525-5" />
+      <stop
+         offset="1"
+         style="stop-color:#000000"
+         id="stop13527-0" />
+      <a:midPointStop
+         offset="0"
+         style="stop-color:#000000" />
+      <a:midPointStop
+         offset="0.5"
+         style="stop-color:#000000" />
+      <a:midPointStop
+         offset="0.59"
+         style="stop-color:#FFFFFF" />
+      <a:midPointStop
+         offset="0.5"
+         style="stop-color:#FFFFFF" />
+      <a:midPointStop
+         offset="1"
+         style="stop-color:#000000" />
+    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -659,9 +907,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="-13.741186"
-     inkscape:cy="-35.601818"
+     inkscape:zoom="1.4"
+     inkscape:cx="44.211174"
+     inkscape:cy="43.627554"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -999,6 +1247,202 @@
          style="fill:#0f0f0e;stroke:#000000;stroke-width:0.25;stroke-opacity:1"
          id="path10593"
          d="m 702.387,237.884 -0.802,0 0,-0.5 0.802,0 0,0.5 z"
+         i:knockout="Off" />
+    </g>
+    <g
+       id="g16546"
+       transform="matrix(1.0028367,0,0,1.0149972,-540.35138,773.65312)"
+       style="font-size:13.87651825px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+       inkscape:export-filename="/home/vanessa/src/QT4/src/pict/lib/div_off_45x90.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="font-size:13.87651825px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient16551);stroke:#404040;stroke-width:0.99117982;stroke-miterlimit:4;stroke-dasharray:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+         id="path8504"
+         d="m 687.95003,202.96348 9.3927,-11.81374 -21.42467,0 -0.23259,0 10.32306,11.81374 1.9415,0 z" />
+      <path
+         style="font-size:13.87651825px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ebebeb;stroke:#404040;stroke-width:0.99117982;stroke-miterlimit:4;stroke-dasharray:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+         id="path8506"
+         d="m 718.70213,191.0308 -43.5127,0 0,-20.74527 43.5127,0 0,20.74527 z" />
+      <path
+         style="font-size:13.87651825px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient4940);stroke:#404040;stroke-width:0.99117982;stroke-miterlimit:4;stroke-dasharray:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+         id="path8513"
+         d="m 708.91543,202.96348 9.3927,-11.81374 -21.4246,0 -0.2326,0 10.3231,11.81374 1.9414,0 z" />
+    </g>
+    <g
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/vanessa/src/QT4/src/pict/lib/div_on_45x90.png"
+       style="font-size:13.87651825000000017px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans;fill:#717171;fill-opacity:1"
+       transform="matrix(1.0028367,0,0,1.0149972,-462.49424,770.79598)"
+       id="g5353">
+      <path
+         d="m 687.95003,202.96348 9.3927,-11.81374 -21.42467,0 -0.23259,0 10.32306,11.81374 1.9415,0 z"
+         id="path5355"
+         style="font-size:13.87651825000000017px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#717171;stroke:#404040;stroke-width:0.99117982000000004;stroke-miterlimit:4;stroke-dasharray:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans;fill-opacity:1" />
+      <path
+         d="m 718.70213,191.0308 -43.5127,0 0,-20.74527 43.5127,0 0,20.74527 z"
+         id="path5357"
+         style="font-size:13.87651825000000017px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#717171;stroke:#404040;stroke-width:0.99117982000000004;stroke-miterlimit:4;stroke-dasharray:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans;fill-opacity:1" />
+      <path
+         d="m 708.91543,202.96348 9.3927,-11.81374 -21.4246,0 -0.2326,0 10.3231,11.81374 1.9414,0 z"
+         id="path5359"
+         style="font-size:13.87651825000000017px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#717171;stroke:#404040;stroke-width:0.99117982000000004;stroke-miterlimit:4;stroke-dasharray:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans;fill-opacity:1" />
+    </g>
+    <g
+       id="g9905"
+       transform="matrix(-0.2992822,0,0,0.2992822,253.23437,690.76141)"
+       style="font-size:46.77859116px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+       inkscape:export-filename="/home/vanessa/src/QT4/src/pict/lib/pump_off_26x30.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         i:knockout="Off"
+         d="m 302.83302,583.50567 -23.56666,0 0,-4.00798 23.56666,0 0,4.00798 z"
+         id="path9907"
+         style="font-size:46.77859116px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#7f7f7f;stroke:#000000;stroke-width:2.1402936;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans" />
+      <path
+         i:knockout="Off"
+         d="m 347.9276,583.50567 -23.56666,0 0,-4.00798 23.56666,0 0,4.00798 z"
+         id="path9909"
+         style="font-size:46.77859116px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#7f7f7f;stroke:#000000;stroke-width:2.1402936;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans" />
+      <path
+         i:knockout="Off"
+         d="m 304.10754,574.30169 -12.73922,-9.6507 -4.57235,14.90064 16.03705,-0.0553 1.27452,-5.19461 z"
+         id="path9911"
+         style="font-size:46.77859116px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#7f7f7f;stroke:#000000;stroke-width:2.1402936;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans" />
+      <path
+         i:knockout="Off"
+         d="m 323.0888,574.18552 12.73922,-9.6507 4.57235,14.90063 -16.03706,-0.0553 -1.27451,-5.19461 z"
+         id="path9913"
+         style="font-size:46.77859116px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#7f7f7f;stroke:#000000;stroke-width:2.1402936;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans" />
+      <path
+         i:knockout="Off"
+         d="m 348.51027,533.2883 c 0,23.34395 -15.5066,42.26917 -34.63738,42.26917 -19.13078,0 -34.63739,-18.92383 -34.63739,-42.26917 0,-23.34534 15.50661,-42.26918 34.63739,-42.26918 19.13078,0 34.63738,18.92384 34.63738,42.26918 z"
+         id="path9915"
+         style="font-size:46.77859116px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:url(#radialGradient9935);stroke:#000000;stroke-width:2.1402936;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans" />
+      <path
+         i:knockout="Off"
+         d="m 314.04615,492.17118 0.0985,1.15205 0.79153,1.61398 0.69185,2.42028 1.58187,5.64687 -43.70971,20.32759 0,-32.31283 40.37271,0 0.17326,1.15206 z"
+         id="path9917"
+         style="font-size:46.77859116px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient9937);font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans" />
+      <path
+         i:knockout="Off"
+         d="m 273.53697,526.97759 -8.54067,0 0,-40.10752 8.54067,0 0,40.10752 z"
+         id="path9919"
+         style="font-size:46.77859116px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient9939);stroke:#000000;stroke-width:2.1402936;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans" />
+      <path
+         i:knockout="Off"
+         d="m 328.78139,533.37404 c 0,9.64379 -6.90659,17.4606 -15.42709,17.4606 -8.5205,0 -15.42709,-7.81681 -15.42709,-17.4606 0,-9.64378 6.90659,-17.4606 15.42709,-17.4606 8.5205,0 15.42709,7.81682 15.42709,17.4606 z"
+         id="path9921"
+         style="font-size:46.77859116px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:2.1402936;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans" />
+      <path
+         i:knockout="Off"
+         d="m 297.92721,537.00447 29.96416,-8.64387"
+         id="path9923"
+         style="font-size:46.77859116px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:2.1402936;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans" />
+      <path
+         i:knockout="Off"
+         d="m 300.00393,524.55731 27.88744,15.55895"
+         id="path9925"
+         style="font-size:46.77859116px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:2.1402936;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans" />
+      <path
+         i:knockout="Off"
+         d="M 302.97068,545.99408 322.8479,520.0625"
+         id="path9927"
+         style="font-size:46.77859116px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:2.1402936;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans" />
+      <path
+         i:knockout="Off"
+         d="m 310.09088,550.14313 5.93349,-34.22969"
+         id="path9929"
+         style="font-size:46.77859116px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:2.1402936;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans" />
+      <path
+         i:knockout="Off"
+         d="M 319.88115,549.45163 307.12413,516.95071"
+         id="path9931"
+         style="font-size:46.77859116px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:2.1402936;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans" />
+      <path
+         i:knockout="Off"
+         d="m 316.32105,532.50966 c 0,1.90995 -1.32792,3.45754 -2.96675,3.45754 -1.63883,0 -2.96675,-1.54759 -2.96675,-3.45754 0,-1.90995 1.32792,-3.45755 2.96675,-3.45755 1.63883,0 2.96675,1.5476 2.96675,3.45755 z"
+         id="path9933"
+         style="font-size:46.77859116px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans" />
+    </g>
+    <g
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/vanessa/src/QT4/src/pict/lib/pump_on_26x30.png"
+       style="font-size:46.77859115999999773px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans;fill:#8e8e8e;fill-opacity:1;stroke-width:3.34132802;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="matrix(-0.2992822,0,0,0.2992822,311.8058,690.04712)"
+       id="g6258">
+      <path
+         style="font-size:46.77859115999999773px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#8e8e8e;stroke:#000000;stroke-width:3.34132802;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path6260"
+         d="m 302.83302,583.50567 -23.56666,0 0,-4.00798 23.56666,0 0,4.00798 z"
+         i:knockout="Off" />
+      <path
+         style="font-size:46.77859115999999773px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#8e8e8e;stroke:#000000;stroke-width:3.34132802;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path6262"
+         d="m 347.9276,583.50567 -23.56666,0 0,-4.00798 23.56666,0 0,4.00798 z"
+         i:knockout="Off" />
+      <path
+         style="font-size:46.77859115999999773px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#8e8e8e;stroke:#000000;stroke-width:3.34132802;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path6264"
+         d="m 304.10754,574.30169 -12.73922,-9.6507 -4.57235,14.90064 16.03705,-0.0553 1.27452,-5.19461 z"
+         i:knockout="Off" />
+      <path
+         style="font-size:46.77859115999999773px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#8e8e8e;stroke:#000000;stroke-width:3.34132802;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path6266"
+         d="m 323.0888,574.18552 12.73922,-9.6507 4.57235,14.90063 -16.03706,-0.0553 -1.27451,-5.19461 z"
+         i:knockout="Off" />
+      <path
+         style="font-size:46.77859115999999773px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#8e8e8e;stroke:#000000;stroke-width:3.34132802;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path6268"
+         d="m 348.51027,533.2883 c 0,23.34395 -15.5066,42.26917 -34.63738,42.26917 -19.13078,0 -34.63739,-18.92383 -34.63739,-42.26917 0,-23.34534 15.50661,-42.26918 34.63739,-42.26918 19.13078,0 34.63738,18.92384 34.63738,42.26918 z"
+         i:knockout="Off" />
+      <path
+         style="font-size:46.77859115999999773px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#8e8e8e;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans;fill-opacity:1;stroke-width:3.34132802;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path6270"
+         d="m 314.04615,492.17118 0.0985,1.15205 0.79153,1.61398 0.69185,2.42028 1.58187,5.64687 -43.70971,20.32759 0,-32.31283 40.37271,0 0.17326,1.15206 z"
+         i:knockout="Off" />
+      <path
+         style="font-size:46.77859115999999773px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#8e8e8e;stroke:#000000;stroke-width:3.34132802;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path6272"
+         d="m 273.53697,526.97759 -8.54067,0 0,-40.10752 8.54067,0 0,40.10752 z"
+         i:knockout="Off" />
+      <path
+         style="font-size:46.77859115999999773px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#8e8e8e;stroke:#000000;stroke-width:3.34132802;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path6274"
+         d="m 328.78139,533.37404 c 0,9.64379 -6.90659,17.4606 -15.42709,17.4606 -8.5205,0 -15.42709,-7.81681 -15.42709,-17.4606 0,-9.64378 6.90659,-17.4606 15.42709,-17.4606 8.5205,0 15.42709,7.81682 15.42709,17.4606 z"
+         i:knockout="Off" />
+      <path
+         style="font-size:46.77859115999999773px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#8e8e8e;stroke:#000000;stroke-width:3.34132802;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path6276"
+         d="m 297.92721,537.00447 29.96416,-8.64387"
+         i:knockout="Off" />
+      <path
+         style="font-size:46.77859115999999773px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#8e8e8e;stroke:#000000;stroke-width:3.34132802;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path6278"
+         d="m 300.00393,524.55731 27.88744,15.55895"
+         i:knockout="Off" />
+      <path
+         style="font-size:46.77859115999999773px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#8e8e8e;stroke:#000000;stroke-width:3.34132802;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path6280"
+         d="M 302.97068,545.99408 322.8479,520.0625"
+         i:knockout="Off" />
+      <path
+         style="font-size:46.77859115999999773px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#8e8e8e;stroke:#000000;stroke-width:3.34132802;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path6282"
+         d="m 310.09088,550.14313 5.93349,-34.22969"
+         i:knockout="Off" />
+      <path
+         style="font-size:46.77859115999999773px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#8e8e8e;stroke:#000000;stroke-width:3.34132802;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path6284"
+         d="M 319.88115,549.45163 307.12413,516.95071"
+         i:knockout="Off" />
+      <path
+         style="font-size:46.77859115999999773px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#8e8e8e;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans;fill-opacity:1;stroke-width:3.34132802;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path6286"
+         d="m 316.32105,532.50966 c 0,1.90995 -1.32792,3.45754 -2.96675,3.45754 -1.63883,0 -2.96675,-1.54759 -2.96675,-3.45754 0,-1.90995 1.32792,-3.45755 2.96675,-3.45755 1.63883,0 2.96675,1.5476 2.96675,3.45755 z"
          i:knockout="Off" />
     </g>
   </g>
