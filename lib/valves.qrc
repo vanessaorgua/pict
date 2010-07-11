@@ -1,13 +1,25 @@
 <RCC>
-  <qresource prefix="/valves">
-    <file>fliter_70x77.png</file>
-    <file>fliter_presed_70x77.png</file>
-    <file>lamp_green_16x16.png</file>
-    <file>lamp_off_16x16.png</file>
-    <file>valve_green_20x32.png</file>
-    <file>valve_off_20x32.png</file>
-    <file>lamp_off.png</file>
-    <file>lamp_on.png</file>
-    <file>lamp_red.png</file>
-  </qresource>
+    <qresource prefix="/valves">
+        <file>fliter_70x77.png</file>
+        <file>fliter_presed_70x77.png</file>
+        <file>lamp_green_16x16.png</file>
+        <file>lamp_off_16x16.png</file>
+        <file>valve_green_20x32.png</file>
+        <file>valve_off_20x32.png</file>
+        <file>lamp_off.png</file>
+        <file>lamp_on.png</file>
+        <file>lamp_red.png</file>
+        <file>valve_green_h_20x32.png</file>
+        <file>valve_green_l_20x32.png</file>
+        <file>valve_off_h_20x32.png</file>
+        <file>valve_off_l_20x32.png</file>
+        <file>left_20x20.png</file>
+        <file>left_20x20_green.png</file>
+        <file>left_20x20_off.png</file>
+
+        <file>right_20x20.png</file>
+        <file>right_20x20_green.png</file>
+        <file>right_20x20_off.png</file>
+
+    </qresource>
 </RCC>
