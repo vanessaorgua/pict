@@ -21,5 +21,10 @@
         <file>right_20x20_green.png</file>
         <file>right_20x20_off.png</file>
 
+	<file>arrov_l_14x20.png</file>
+	<file>arrov_r_14x20.png</file>
+	<file>arrov_l_g_14x20.png</file>
+	<file>arrov_r_g_14x20.png</file>
+
     </qresource>
 </RCC>

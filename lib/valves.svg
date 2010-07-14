@@ -1037,9 +1037,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="15.839192"
-     inkscape:cx="166.99716"
-     inkscape:cy="162.14175"
+     inkscape:zoom="18.139167"
+     inkscape:cx="83.759002"
+     inkscape:cy="271.71283"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1672,5 +1672,45 @@
        inkscape:export-filename="/home/vanessa/src/QT4/src/pict/lib/pump_on_10x11.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 22.060554,763.90236 29.778473,14.14213"
+       id="path5606" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:3.34079814;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path5608"
+       sodipodi:cx="56.568542"
+       sodipodi:cy="773.81262"
+       sodipodi:rx="7.0710678"
+       sodipodi:ry="6.3134532"
+       d="m 56.340028,780.12278 a 7.0710678,6.3134532 0 1 1 0.01898,5.2e-4"
+       sodipodi:start="1.6031188"
+       sodipodi:end="7.8836181"
+       sodipodi:open="true"
+       transform="matrix(0.28283983,0,0,0.31678087,35.78328,532.81852)" />
+    <path
+       id="path6120"
+       d="m 66.060554,764.37014 26.934472,13.67434"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/vanessa/src/QT4/src/Linovitsa/kf-1000/scada/mnemo/w_l_100x55.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       transform="matrix(0.28283983,0,0,0.31678087,76.939285,532.81852)"
+       sodipodi:open="true"
+       sodipodi:end="7.8836181"
+       sodipodi:start="1.6031188"
+       d="m 56.340028,780.12278 a 7.0710678,6.3134532 0 1 1 0.01898,5.2e-4"
+       sodipodi:ry="6.3134532"
+       sodipodi:rx="7.0710678"
+       sodipodi:cy="773.81262"
+       sodipodi:cx="56.568542"
+       id="path6122"
+       style="fill:none;stroke:#000000;stroke-width:3.34079814;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/vanessa/src/QT4/src/Linovitsa/kf-1000/scada/mnemo/w_l_100x55.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
   </g>
 </svg>
